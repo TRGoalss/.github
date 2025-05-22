@@ -1,4 +1,4 @@
-# TRGoals – Canlı Maç İzle, Kesintisiz Futbol Keyfi
+# TRGoals 👑 Canlı Maç İzle 👑 Kesintisiz Futbol Keyfi
 
 🏟️ **TRGoals** ile canlı maç heyecanı artık parmaklarınızın ucunda! Futbol, basketbol, tenis ve çok daha fazlasını HD kalitede, donmadan izleyin.  
 **TR Goals**, maç izleme deneyimini yeni bir seviyeye taşıyor.
