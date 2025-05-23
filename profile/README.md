@@ -3,9 +3,11 @@
 🏟️ **TRGoals** ile canlı maç heyecanı artık parmaklarınızın ucunda! Futbol, basketbol, tenis ve çok daha fazlasını HD kalitede, donmadan izleyin.  
 **TR Goals**, maç izleme deneyimini yeni bir seviyeye taşıyor.
 
-## 🔗 Site Linki
+## 🔗 Link
 
-👉 [Canlı Maç İzlemek İçin Tıklayın](https://bosstv1.com/)
+<a href="https://bosstv1.com/">
+  <img src="https://i.ibb.co/FL3kspJ2/canliizle.gif"  style="max-width:100%; border-radius:12px;">
+</a>
 
 ## 📺 Neden TR Goals?
 
